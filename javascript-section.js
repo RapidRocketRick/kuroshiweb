@@ -1,3 +1,4 @@
-var com = ["no comment", "no comment"];
+var com = ["no comment"];
 com.push(b);
-console.log(com.slice(-1));
+lat_com = (com.slice(-1));
+return lat_com
