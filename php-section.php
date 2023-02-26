@@ -2,7 +2,7 @@
 <html>
 <body>
 <?php
-echo $_POST("comt");
+$comment = $_POST("comt");
 ?>
 </body>
 </html>
